@@ -1,0 +1,19 @@
+
+@media  (min-width:361px) and (max-width:768px) {
+	.col-vision i {
+  border-radius:50%;
+  padding:3%;
+  font-size: 25px;
+  background-color: #E02369;
+  color:#fff;
+  margin-bottom: 27px;
+  margin-left:321px; 
+  
+  
+  text-align: center;
+  line-height: 36px;
+}
+
+    }
+
+   
